@@ -39,9 +39,10 @@ Do not allocate extra space for another array. You must do this by modifying the
 - Python 3.9
 - JavaScript
 
-<a name="improvement"></a>
+## <div align="center"> 🌟 _Teaching points:_
 
-## <div align="center"> 🌟 _Improvement opportunities:_
+- if we need to remove few elements in array and keep going - make index variable and assign elements we don't need to remove to this index, then increment index
+- in JS we can increment index when we are assigning value `element[index++] = someValue` will assign **element[index]** value **someValue** and then **increment index by 1**
 
 <a name="contact"></a>
 
